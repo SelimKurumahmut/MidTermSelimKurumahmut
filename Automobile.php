@@ -1,6 +1,6 @@
 <?php
 class Automobile{
-    public $licensePplate;
+    public $licensePlate;
     public $brand;
     public $model;
     public $modelYear;
